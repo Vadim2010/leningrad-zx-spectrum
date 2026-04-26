@@ -1,0 +1,28 @@
+# --- Altium Temporary Files & Folders ---
+History/
+__Previews/
+*.PrjPcbStructure
+*.PrjPcbStructure*
+
+# --- Project Outputs ---
+# (Gerbers, BOM, NC Drill, Assembly, etc.)
+Project Outputs for */
+Project Outputs/
+Project Logs/
+*.REP
+*.LOG
+*.log
+*.htm
+
+# --- Misc Altium ---
+*.PcbDocPreview
+*.SchDocPreview
+*.DSNlck
+.~lock.*
+*.bak
+*.dwl
+*.dwl2
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db

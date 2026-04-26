@@ -1,0 +1,32 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Leningrad.PrjPcb|ReportField=ProjectFullPath~D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb|ReportField=Title~Bill of Materials For Project [Leningrad.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~188|ReportField=ReportTime~10:14:07|ReportField=ReportDate~16.09.2021|ReportField=ReportDateTime~16.09.2021 10:14:07|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~16.09.2021|ReportField=CurrentTime~10:06:42|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Altium\Project\Leningrad modify\Leningrad_modify.SchDoc|ReportField=DocumentName~Leningrad_modify.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~16.06.2020|ReportField=Organization~|ReportField=ProjectName~Leningrad.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Leningrad.PrjPcb|ReportField=DataSourceFullPath~D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1||Socket|B, G, R, RESET_BTN, SND, SYNC, TAPE IN, TAPE OUT, VIDEO|PIN1|Socket|9
+2|Socket|Socket|BTN1, BTN2|PIN1|Socket|2
+3|Cap Pol1|Polarized Capacitor (Radial)|C1|RB7.6-15|Cap Pol1|1
+4|Cap|Capacitor|C2, C23, C24, C?|RAD-0.3|Cap|4
+5||Capacitor|C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C?, C?, C?, C?, C?, C?, C?, C?, C?, C?, C?, C?, C?, C?, C?, C?, C?, C?, C?, C?|RAD-0.3|Cap|40
+6|circle Kost or Vesta-IK30|Capacitor|C?|RAD-0.3|Cap|1
+7|my|Capacitor|C?|RAD-0.3|Cap|1
+8|stable SS Kost|Capacitor|C?|RAD-0.3|Cap|1
+9|Vesta-IK30|Capacitor|C?|RAD-0.3|Cap|1
+10|Diode 1N4148|High Conductance Fast Diode|D1, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17|DO-35|Diode 1N4148|15
+11||Computer Diode|D2, D3|DO-35A|Diode 1N4149|2
+12|787761-1|USB 1.1, Right Angle, Thru-Hole, A Type, Receptacle, 4 Position, Black|J?|787761|787761-1|1
+13|PS2-6PIN|6 Pin Through Hole PS2 Socket (Kycon P/N)|J?|PS2-6PIN|PS2-6PIN|1
+14|KT315|NPN General Purpose Amplifier|Q1, Q2, Q3, Q4, Q5|D35|KT315|5
+15||Resistor|R1, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R?, R?, R?, R?, R?, R?, R?, R?, R?, R?|AXIAL-0.4|Res2|31
+16|Res2|Resistor|R24, R31, R32, R?, R?, R?, R?, R?, R?, R?, R?, R?, R?, R?, R?, R?, R?, R?, R?, R?, R?, R?, R?, R?|AXIAL-0.4|Res2|24
+17||Hex Inverter, Dual D-Type Positive-Edge-Triggered Flip-Flop with Clear and Preset, Dual D-Type Positive-Edge-Triggered Flip-Flop with Clear and Preset, Dual D-Type Positive-Edge-Triggered Flip-Flop with Clear and Preset, Quadruple 2-Input Positive-NOR Gate, Quadruple 2-Input Exclusive-OR Gate, Quadruple 2-Input Positive-NAND Gate, Quadruple 2-Input Positive-AND Gate, Quadruple 2-Input Positive-OR Gate, Hex Inverter, 4-Bit Parallel-Access Shift Register, Triple 3-Input Positive-NAND Gate|U1, U2, U8, U9, U10, U11, U12, U13, U14, U34, U35, U40|N014|SN74HC04N, SN74HC74N, SN74HC74N, SN74HC74N, SN74HC02N, SN74HC86N, SN74HC00N, SN74HC08N, SN74HC32N, SN74HC04N, SN74LS95BN, SN74HC10N|12
+18||4-Bit Synchronous Up/Down Counter (Dual Clock with Clear), 4-Bit Synchronous Up/Down Counter (Dual Clock with Clear), 4-Bit Synchronous Up/Down Counter (Dual Clock with Clear), 4-Bit Synchronous Up/Down Counter (Dual Clock with Clear), Quadruple 2-Line to 1-Line Data Selector/Multiplexer with 3-State Outputs, Quadruple 2-Line to 1-Line Data Selector/Multiplexer with 3-State Outputs, Quadruple 2-Line to 1-Line Data Selector/Multiplexer with 3-State Outputs, Quadruple 2-Line to 1-Line Data Selector/Multiplexer with 3-State Outputs, Quadruple 2-Line to 1-Line Data Selector/Multiplexer with 3-State Outputs, 8-Bit Parallel-Load Shift Register, Quadruple 2-Line to 1-Line Data Selector/Multiplexer with 3-State Outputs, Quadruple 2-Line to 1-Line Data Selector/Multiplexer with 3-State Outputs, Quadruple 2-Line to 1-Line Data Selector/Multiplexer with 3-State Outputs, Hex D-Type Flip-Flop with Clear|U3, U4, U5, U6, U15, U16, U17, U18, U19, U33, U36, U37, U38, U39|N016|SN74HC193N, SN74HC193N, SN74HC193N, SN74HC193N, SN74HC257N, SN74HC257N, SN74HC257N, SN74HC257N, SN74HC257N, SN74HC165N, SN74HC257N, SN74HC257N, SN74HC257N, SN74HC174N|14
+19||Dual Binary Up Counter|U7|648-08|MC14520BCP|1
+20||CMOS 8-Bit Microprocessor|U20|PDIP40|Z84C0010PEC|1
+21|MN41256A-08||U21, U22, U23, U24, U25, U26, U27, U28|DIP16|MN41256A-08|8
+22||512 Kbit (64Kb x 8) UV EPROM and OTP EPROM|U29|FDIP28W|M27C512-90XF6|1
+23||Quadruple 2-Input Multiplexer with Storage|U30, U31|N016D|SN74HC298N|2
+24||Octal Transparent D-Type Latches with 3-State Outputs|U32|N020|SN74HC373N|1
+25|SN74HC74N|Dual D-Type Positive-Edge-Triggered Flip-Flop with Clear and Preset|U41|N014|SN74HC74N|1
+26|ATmega168A-PU|8-bit AVR Microcontroller, 16KB Flash, 512 Bytes EEPROM, 1KB SRAM, 28-pin PDIP, Industrial Grade (-40°C to 85°C)|U?|28P3|ATmega168A-PU|1
+27|LM111J|Differential Comparator with Strobe|U?|J014|LM111J|1
+28|SN74HC138D|3-Line to 8-Line Decoder / Demultiplexer|U?|D016_N|SN74HC138D|1
+29|Jumper|Jumper Wire|W?|RAD-0.2|Jumper|3
+30|XTAL|Crystal Oscillator|Y1|HC25U|XTAL|1
+31|24 MHz|Crystal Oscillator|Y?|HC25U|XTAL|1

@@ -1,0 +1,211 @@
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~100|Field=LibRef~String~LibRef~100|Field=Comment~String~Comment~100|Field=Quantity~Integer~Quantity~100|Field=Description~String~Description~100|Field=LogicalDesignator~String~LogicalDesignator~100|Field=PhysicalPath~String~PhysicalPath~100|Field=Project~String~Project~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Leningrad.PrjPcb|ReportField=ProjectFullPath~D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [Leningrad_modify.PcbDoc]|ReportField=TotalQuantity~250|ReportField=ReportTime~15:04:24|ReportField=ReportDate~26.04.2026|ReportField=ReportDateTime~26.04.2026 15:04:24|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~Leningrad_modify.PcbDoc|ReportField=DataSourceFullPath~D:\Altium\Project\Leningrad modify\Leningrad_modify.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+4|C1|Cap Pol1|Cap Pol1|1|Polarized Capacitor (Radial)|C1|ZX_Main\CR|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+5|C2|Cap|Cap|1|Capacitor|C2|ZX_Main\VC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+6|C3|Cap|Cap|1|Capacitor|C3|ZX_Main\CG|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+7|C4|Cap|Cap|1|Capacitor|C4|ZX_Main\CG|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+8|C5|Cap|Cap|1|Capacitor|C5|ZX_Main\CG|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+9|C6|Cap|Cap|1|Capacitor|C6|ZX_Main\CG|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+10|C7|Cap|Cap|1|Capacitor|C7|ZX_Main\CG|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+11|C8|Cap|Cap|1|Capacitor|C8|ZX_Main\CG|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+12|C9|Cap|Cap|1|Capacitor|C9|ZX_Main\CG|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+13|C10|Cap|stable SS Kost|1|Capacitor|C10|ZX_Main\CG|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+14|C11|Cap|stable KS Kost|1|Capacitor|C11|ZX_Main\CG|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+15|C12|Cap|Vesta-IK30|1|Capacitor|C12|ZX_Main\CG|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+16|C13|Cap|Cap|1|Capacitor|C13|ZX_Main\CS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+17|C14|Cap|Cap|1|Capacitor|C14|ZX_Main\CS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+18|C15|Cap|Cap|1|Capacitor|C15|ZX_Main\CS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+19|C16|Cap|Cap|1|Capacitor|C16|ZX_Main\CS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+20|C17|Cap|Cap|1|Capacitor|C17|ZX_Main\CS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+21|C18|Cap|Cap|1|Capacitor|C18|ZX_Main\CS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+22|C19|Cap|Cap|1|Capacitor|C19|ZX_Main\CS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+23|C20|Cap|Cap|1|Capacitor|C20|ZX_Main\CS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+24|C21|Cap|Cap|1|Capacitor|C21|ZX_Main\CS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+25|C22|Cap|Cap|1|Capacitor|C22|ZX_Main\Audio|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+26|C23|Cap|Cap|1|Capacitor|C23|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+27|C24|Cap|Cap|1|Capacitor|C24|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+28|C25|Cap|Cap|1|Capacitor|C25|ZX_Main\Audio|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+29|C26|Cap|Cap|1|Capacitor|C26|ZX_Main\CR|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+30|C27|Cap|Cap|1|Capacitor|C27|ZX_Main\CR|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+31|C28|Cap|Cap|1|Capacitor|C28|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+32|C29|Cap|Cap|1|Capacitor|C29|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+33|C30|Cap|Cap|1|Capacitor|C30|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+34|C31|Cap|Cap|1|Capacitor|C31|ZX_Main\MC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+35|C32|Cap|Cap|1|Capacitor|C32|ZX_Main\MC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+36|C33|Cap|Cap|1|Capacitor|C33|ZX_Main\MC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+37|C34|Cap|Cap|1|Capacitor|C34|ZX_Main\MC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+38|C35|Cap|Cap|1|Capacitor|C35|ZX_Main\MC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+39|C36|Cap|Cap|1|Capacitor|C36|ZX_Main\MC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+40|C37|Cap|Cap|1|Capacitor|C37|ZX_Main\MC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+41|C38|Cap|Cap|1|Capacitor|C38|ZX_Main\MC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+42|C39|Cap|Cap|1|Capacitor|C39|ZX_Main\MC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+43|C40|Cap|Cap|1|Capacitor|C40|ZX_Main\Mem|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+44|C41|Cap|Cap|1|Capacitor|C41|ZX_Main\Mem|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+45|C42|Cap|Cap|1|Capacitor|C42|ZX_Main\Mem|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+46|C43|Cap|Cap|1|Capacitor|C43|ZX_Main\Mem|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+47|C44|Cap|Cap|1|Capacitor|C44|ZX_Main\Mem|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+48|C45|Cap|circle Kost or Vesta-IK30|1|Capacitor|C45|ZX_Main\CS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+49|C46|Cap|Cap|1|Capacitor|C46|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+50|C47|Cap|Cap|1|Capacitor|C47|ZX_Main\Mem|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+51|C48|Cap|Cap|1|Capacitor|C48|ZX_Main\Mem|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+52|C49|Cap|my|1|Capacitor|C49|ZX_Main\VC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+53|C50|Cap|circle|1|Capacitor|C50|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+54|C51|Cap|Cap|1|Capacitor|C51|ZX_Main\Mem|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+55|C52|Cap|Cap|1|Capacitor|C52|ZX_Main\Audio|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+56|C53|Cap|Cap|1|Capacitor|C53|ZX_Main\Audio|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+57|C54|Cap|Cap|1|Capacitor|C54|ZX_Main\VC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+58|C55|Cap|Cap|1|Capacitor|C55|ZX_Main\VC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+59|C56|Cap|Cap|1|Capacitor|C56|ZX_Main\VC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+60|C57|Cap|Cap|1|Capacitor|C57|ZX_Main\VC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+61|C58|Cap|Cap|1|Capacitor|C58|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+62|C59|Cap|Cap|1|Capacitor|C59|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+63|C60|Cap|Cap|1|Capacitor|C60|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+64|C61|Cap|Cap|1|Capacitor|C61|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+65|C62|Cap|Cap|1|Capacitor|C62|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+66|D1|Diode 1N4148|Diode 1N4148|1|High Conductance Fast Diode|D1|ZX_Main\VC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+67|D2|Diode 1N4149||1|Computer Diode|D2|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+68|D3|Diode 1N4149||1|Computer Diode|D3|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+69|D4|Diode 1N4148|Diode 1N4148|1|High Conductance Fast Diode|D4|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+70|D5|Diode 1N4148|Diode 1N4148|1|High Conductance Fast Diode|D5|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+71|D6|Diode 1N4148|Diode 1N4148|1|High Conductance Fast Diode|D6|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+72|D7|Diode 1N4148|Diode 1N4148|1|High Conductance Fast Diode|D7|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+73|D8|Diode 1N4148|Diode 1N4148|1|High Conductance Fast Diode|D8|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+74|D9|Diode 1N4148|Diode 1N4148|1|High Conductance Fast Diode|D9|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+75|D10|Diode 1N4148|Diode 1N4148|1|High Conductance Fast Diode|D10|ZX_Main\Con|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+76|D11|Diode 1N4148|Diode 1N4148|1|High Conductance Fast Diode|D11|ZX_Main\Con|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+77|D12|Diode 1N4148|Diode 1N4148|1|High Conductance Fast Diode|D12|ZX_Main\Con|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+78|D13|Diode 1N4148|Diode 1N4148|1|High Conductance Fast Diode|D13|ZX_Main\Con|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+79|D14|Diode 1N4148|Diode 1N4148|1|High Conductance Fast Diode|D14|ZX_Main\Con|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+80|D15|Diode 1N4148|Diode 1N4148|1|High Conductance Fast Diode|D15|ZX_Main\Con|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+81|D16|Diode 1N4148|Diode 1N4148|1|High Conductance Fast Diode|D16|ZX_Main\Con|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+82|D17|Diode 1N4148|Diode 1N4148|1|High Conductance Fast Diode|D17|ZX_Main\Con|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+114|Q1|KT315|KT315|1|NPN General Purpose Amplifier|Q1|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+115|Q2|KT315|KT315|1|NPN General Purpose Amplifier|Q2|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+116|Q3|KT315|KT315|1|NPN General Purpose Amplifier|Q3|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+117|Q4|KT315|KT315|1|NPN General Purpose Amplifier|Q4|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+118|Q5|KT315|KT315|1|NPN General Purpose Amplifier|Q5|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+120|R1|Res2||1|Resistor|R1|ZX_Main\CG|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+121|R2|Res2||1|Resistor|R2|ZX_Main\CG|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+122|R3|Res2||1|Resistor|R3|ZX_Main\CG|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+123|R4|Res2||1|Resistor|R4|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+124|R5|Res2||1|Resistor|R5|ZX_Main\CR|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+125|R6|Res2||1|Resistor|R6|ZX_Main\CR|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+126|R7|Res2||1|Resistor|R7|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+127|R8|Res2||1|Resistor|R8|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+128|R9|Res2||1|Resistor|R9|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+129|R10|Res2||1|Resistor|R10|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+130|R11|Res2||1|Resistor|R11|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+131|R12|Res2||1|Resistor|R12|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+132|R13|Res2||1|Resistor|R13|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+133|R14|Res2||1|Resistor|R14|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+134|R15|Res2||1|Resistor|R15|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+135|R16|Res2||1|Resistor|R16|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+136|R17|Res2||1|Resistor|R17|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+137|R18|Res2||1|Resistor|R18|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+138|R19|Res2||1|Resistor|R19|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+139|R20|Res2||1|Resistor|R20|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+140|R21|Res2||1|Resistor|R21|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+141|R22|Res2||1|Resistor|R22|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+142|R23|Res2||1|Resistor|R23|ZX_Main\VC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+143|R24|Res2|Res2|1|Resistor|R24|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+144|R25|Res2||1|Resistor|R25|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+145|R26|Res2|Res2|1|Resistor|R26|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+146|R27|Res2|Res2|1|Resistor|R27|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+147|R28|Res2|Res2|1|Resistor|R28|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+148|R29|Res2|Res2|1|Resistor|R29|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+149|R30|Res2|Res2|1|Resistor|R30|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+150|R31|Res2|Res2|1|Resistor|R31|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+151|R32|Res2|Res2|1|Resistor|R32|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+152|R33|Res2|Res2|1|Resistor|R33|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+153|R34|Res2||1|Resistor|R34|ZX_Main\CR|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+154|R35|Res2||1|Resistor|R35|ZX_Main\CR|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+155|R36|Res2|Res2|1|Resistor|R36|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+156|R37|Res2||1|Resistor|R37|ZX_Main\CR|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+157|R38|Res2|Res2|1|Resistor|R38|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+158|R39|Res2||1|Resistor|R39|ZX_Main\CR|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+159|R40|Res2|Res2|1|Resistor|R40|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+160|R41|Res2||1|Resistor|R41|ZX_Main\CR|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+161|R42|Res2|Res2|1|Resistor|R42|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+162|R43|Res2||1|Resistor|R43|ZX_Main\CR|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+163|R44|Res2|Res2|1|Resistor|R44|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+164|R45|Res2|Res2|1|Resistor|R45|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+165|R46|Res2|Res2|1|Resistor|R46|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+166|R47|Res2||1|Resistor|R47|ZX_Main\CR|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+167|R48|Res2||1|Resistor|R48|ZX_Main\CR|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+168|R49|Res2|Res2|1|Resistor|R49|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+169|R50|Res2|Res2|1|Resistor|R50|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+170|R51|Res2|Res2|1|Resistor|R51|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+171|R52|Res2|Res2|1|Resistor|R52|ZX_Main\Key|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+172|R53|Res2|Res2|1|Resistor|R53|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+173|R54|Res2|Res2|1|Resistor|R54|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+174|R55|Res2|Res2|1|Resistor|R55|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+175|R56|Res2||1|Resistor|R56|ZX_Main\CR|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+176|R57|Res2|Res2|1|Resistor|R57|ZX_Main\Audio|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+177|R58|Res2|Res2|1|Resistor|R58|ZX_Main\Audio|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+178|R59|Res2|Res2|1|Resistor|R59|ZX_Main\Audio|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+179|R60|Res2|Res2|1|Resistor|R60|ZX_Main\Audio|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+180|R61|Res2|Res2|1|Resistor|R61|ZX_Main\Audio|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+181|R62|Res2|Res2|1|Resistor|R62|ZX_Main\Audio|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+182|R63|Res2|Res2|1|Resistor|R63|ZX_Main\Con|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+187|U1|SN74HC04N||1|Hex Inverter|U1|ZX_Main\CG|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+188|U2|SN74HC74N||1|Dual D-Type Positive-Edge-Triggered Flip-Flop with Clear and Preset|U2|ZX_Main\CG|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+189|U3|SN74HC193N||1|4-Bit Synchronous Up/Down Counter (Dual Clock with Clear)|U3|ZX_Main\CG|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+190|U4|SN74HC193N||1|4-Bit Synchronous Up/Down Counter (Dual Clock with Clear)|U4|ZX_Main\CG|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+191|U5|SN74HC193N||1|4-Bit Synchronous Up/Down Counter (Dual Clock with Clear)|U5|ZX_Main\CG|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+192|U6|SN74HC193N||1|4-Bit Synchronous Up/Down Counter (Dual Clock with Clear)|U6|ZX_Main\CG|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+193|U7|MC14520BCP||1|Dual Binary Up Counter|U7|ZX_Main\VC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+194|U8|SN74HC74N||1|Dual D-Type Positive-Edge-Triggered Flip-Flop with Clear and Preset|U8|ZX_Main\VC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+195|U9|SN74HC74N||1|Dual D-Type Positive-Edge-Triggered Flip-Flop with Clear and Preset|U9|ZX_Main\CS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+196|U10|SN74HC02N||1|Quadruple 2-Input Positive-NOR Gate|U10|ZX_Main\CS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+197|U11|SN74HC86N||1|Quadruple 2-Input Exclusive-OR Gate|U11|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+198|U12|SN74HC00N||1|Quadruple 2-Input Positive-NAND Gate|U12|ZX_Main\CS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+199|U13|SN74HC08N||1|Quadruple 2-Input Positive-AND Gate|U13|ZX_Main\CS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+200|U14|SN74HC32N||1|Quadruple 2-Input Positive-OR Gate|U14|ZX_Main\CS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+201|U15|SN74HC257N||1|Quadruple 2-Line to 1-Line Data Selector/Multiplexer with 3-State Outputs|U15|ZX_Main\MC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+202|U16|SN74HC257N||1|Quadruple 2-Line to 1-Line Data Selector/Multiplexer with 3-State Outputs|U16|ZX_Main\MC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+203|U17|SN74HC257N||1|Quadruple 2-Line to 1-Line Data Selector/Multiplexer with 3-State Outputs|U17|ZX_Main\MC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+204|U18|SN74HC257N||1|Quadruple 2-Line to 1-Line Data Selector/Multiplexer with 3-State Outputs|U18|ZX_Main\MC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+205|U19|SN74HC257N||1|Quadruple 2-Line to 1-Line Data Selector/Multiplexer with 3-State Outputs|U19|ZX_Main\MC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+206|U20|Z84C0004PEC|Z84C0004PEC|1|CMOS 8-Bit Microprocessor|U20|ZX_Main\CR|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+207|U21|MN41256A-08|MN41256A-08|1||U21|ZX_Main\Mem|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+208|U22|MN41256A-08|MN41256A-08|1||U22|ZX_Main\Mem|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+209|U23|MN41256A-08|MN41256A-08|1||U23|ZX_Main\Mem|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+210|U24|MN41256A-08|MN41256A-08|1||U24|ZX_Main\Mem|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+211|U25|MN41256A-08|MN41256A-08|1||U25|ZX_Main\Mem|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+212|U26|MN41256A-08|MN41256A-08|1||U26|ZX_Main\Mem|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+213|U27|MN41256A-08|MN41256A-08|1||U27|ZX_Main\Mem|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+214|U28|MN41256A-08|MN41256A-08|1||U28|ZX_Main\Mem|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+215|U29|M27C512-10B1|M27C512-10B1|1|512 Kbit (64Kb x 8) UV EPROM and OTP EPROM|U29|ZX_Main\CR|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+216|U30|SN74HC298N||1|Quadruple 2-Input Multiplexer with Storage|U30|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+217|U31|SN74HC298N||1|Quadruple 2-Input Multiplexer with Storage|U31|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+218|U32|SN74HC373N||1|Octal Transparent D-Type Latches with 3-State Outputs|U32|ZX_Main\CR|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+219|U33|SN74HC165N||1|8-Bit Parallel-Load Shift Register|U33|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+220|U34|SN74HC04N||1|Hex Inverter|U34|ZX_Main\CS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+221|U35|SN74LS95BN||1|4-Bit Parallel-Access Shift Register|U35|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+222|U36|SN74HC257N||1|Quadruple 2-Line to 1-Line Data Selector/Multiplexer with 3-State Outputs|U36|ZX_Main\VS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+223|U37|SN74HC257N||1|Quadruple 2-Line to 1-Line Data Selector/Multiplexer with 3-State Outputs|U37|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+224|U38|SN74HC257N||1|Quadruple 2-Line to 1-Line Data Selector/Multiplexer with 3-State Outputs|U38|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+225|U39|SN74HC174N||1|Hex D-Type Flip-Flop with Clear|U39|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+226|U40|SN74HC10N||1|Triple 3-Input Positive-NAND Gate|U40|ZX_Main\CS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+227|U41|SN74HC74N|SN74HC74N|1|Dual D-Type Positive-Edge-Triggered Flip-Flop with Clear and Preset|U41|ZX_Main\VC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+228|U42|LM111J|LM111J|1|Differential Comparator with Strobe|U42|ZX_Main\In|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+229|U43|ATmega168A-PU|ATmega168A-PU|1|8-bit AVR Microcontroller, 16KB Flash, 512 Bytes EEPROM, 1KB SRAM, 28-pin PDIP, Industrial Grade (-40°C to 85°C)|U43|ZX_Main\Key|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+230|U44|SN74HC138N||1|3-Line to 8-Line Decoder / Demultiplexer|U44|ZX_Main\VC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+231|U45|SN74HC174N|SN74HC174N|1|Hex D-Type Flip-Flop with Clear|U45|ZX_Main\MC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+232|U46|SN74HC257N|SN74HC257N|1|Quadruple 2-Line to 1-Line Data Selector/Multiplexer with 3-State Outputs|U46|ZX_Main\MC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+233|U47|SN74HC02N|SN74HC02N|1|Quadruple 2-Input Positive-NOR Gate|U47|ZX_Main\MC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+234|U48|SN74HC00N|SN74HC00N|1|Quadruple 2-Input Positive-NAND Gate|U48|ZX_Main\MC|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+235|U49|SN74HC32N|SN74HC32N|1|Quadruple 2-Input Positive-OR Gate|U49|ZX_Main\CS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+236|U50|SN74HC08N|SN74HC08N|1|Quadruple 2-Input Positive-AND Gate|U50|ZX_Main\CS|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+237|U51|SN74HC32N|SN74HC32N|1|Quadruple 2-Input Positive-OR Gate|U51|ZX_Main\CR|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+238|U52|AY-3-8912|AY-3-8912|1||U52|ZX_Main\Audio|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+239|U53|SN74HC02N|SN74HC02N|1|Quadruple 2-Input Positive-NOR Gate|U53|ZX_Main\Audio|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+241|X1|PWR2.5|PWR2.5|1|Low Voltage Power Supply Connector|X1|ZX_Main\Con|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+242|X2|PS2-6PIN|PS2-6PIN|1|6 Pin Through Hole PS2 Socket (Kycon P/N)|X2|ZX_Main\Con|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+243|X3|787761-1|787761-1|1|USB 1.1, Right Angle, Thru-Hole, A Type, Receptacle, 4 Position, Black|X3|ZX_Main\Con|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+244|X4|Phonejack Stereo SW|Tape IN|1|3-Conductor Jack with 2 break contacts (normals) and 2 auxiliary make contacts|X4|ZX_Main\Con|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+245|X5|Phonejack Stereo SW|Tape OUT|1|3-Conductor Jack with 2 break contacts (normals) and 2 auxiliary make contacts|X5|ZX_Main\Con|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+246|X6|Phonejack Stereo SW|Phonejack Stereo SW|1|3-Conductor Jack with 2 break contacts (normals) and 2 auxiliary make contacts|X6|ZX_Main\Con|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+247|X7|Header 5|Header 5|1|Header, 5-Pin|X7|ZX_Main\Con|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+248|X8|SCART|SCART|1||X8|ZX_Main\Con|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+249|Y1|XTAL|XTAL|1|Crystal Oscillator|Y1|ZX_Main\CG|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
+250|Y2|XTAL|24 MHz|1|Crystal Oscillator|Y2|ZX_Main\Key|D:\Altium\Project\Leningrad modify\Leningrad.PrjPcb
