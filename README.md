@@ -70,11 +70,9 @@ All of these can be observed:
 
 ## Repository Structure
 
-/Leningrad
-└── Original Leningrad schematic and PCB (Altium)
-
-/Leningrad_mod
-└── Configurable board design (Altium)
+leningrad-zx-spectrum/
+  ├── Leningrad/        → Original Leningrad schematic and PCB (Altium)
+  └── Leningrad_mod/    → Configurable board design (Altium)
 
 ---
 
@@ -107,19 +105,12 @@ This board uses a fully jumper-based configuration system, allowing reconstructi
 | Quartz MHz | J1  | J2  | J3  |
 |------------|-----|-----|-----|
 |    12.5    | 1-2 | 1-2 | 1-2 |
-|------------|-----|-----|-----|
 |    13.0    | 2-3 | 1-2 | 1-2 |
-|------------|-----|-----|-----|
 |    13.5    | 1-2 | 2-3 | 1-2 |
-|------------|-----|-----|-----|
 |    14.0    | 2-3 | 2-3 | 1-2 |
-|------------|-----|-----|-----|
 |    14.5    | 1-2 | 1-2 | 2-3 |
-|------------|-----|-----|-----|
 |    15.0    | 2-3 | 1-2 | 2-3 |
-|------------|-----|-----|-----|
 |    15.5    | 1-2 | 2-3 | 2-3 |
-|------------|-----|-----|-----|
 |    16.0    | 2-3 | 2-3 | 2-3 |
 
 ---
@@ -129,9 +120,7 @@ This board uses a fully jumper-based configuration system, allowing reconstructi
 | Mode | J4  | J6  | J7  | J12–J26 |
 |------|-----|-----|-----|---------|
 | 48K  | 1-2 | 1-2 | 1-2 |   1-2   |
-|------|-----|-----|-----|---------|
 | 128K | 2-3 | 2-3 | 2-3 |   2-3   |
-|------|-----|-----|-----|---------|
 | 256K | 2-3 | 2-3 | 1-2 |   2-3   |
 
 > Enables switching between different memory architectures without PCB modification.
@@ -143,7 +132,6 @@ This board uses a fully jumper-based configuration system, allowing reconstructi
 |   Mode    | J5  | J8  |
 |-----------|-----|-----|
 |    RGB    | 1-2 | 1-2 |
-|-----------|-----|-----|
 | Composite | 2-3 | 2-3 |
 
 ---
@@ -153,7 +141,6 @@ This board uses a fully jumper-based configuration system, allowing reconstructi
 |   IC Type   | J11 |
 |-------------|-----|
 | SN74ALS373N | 1-2 |
-|-------------|-----|
 | SN74ALS374N | 2-3 |
 
 ---
@@ -163,7 +150,6 @@ This board uses a fully jumper-based configuration system, allowing reconstructi
 |   Mode    | J27–J30 |
 |-----------|---------|
 | Leningrad |   1-2   |
-|-----------|---------|
 |  Improve  |   2-3   |
 
 ---
@@ -173,7 +159,6 @@ This board uses a fully jumper-based configuration system, allowing reconstructi
 |   Mode    | J31 |
 |-----------|-----|
 | Leningrad | 1-2 |
-|-----------|-----|
 |  Improve  | 2-3 |
 
 ---
