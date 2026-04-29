@@ -15,6 +15,23 @@ The goal is not just preservation, but **understanding** - how the machine works
 
 ---
 
+## 🖼️ Hardware Preview
+
+### Bare PCB
+
+<p align="center">
+  <img src="images/PCB_top.jpg" width="400" alt="PCB top">
+  <img src="images/PCB_bottom.jpg" width="400" alt="PCB bottom">
+</p>
+
+### Assembled Board
+
+<p align="center">
+  <img src="images/PCB.jpg" width="500" alt="Assembled board">
+</p>
+
+---
+
 ## A Brief History
 
 The original [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) was developed in the early 1980s by [Sir Clive Sinclair](https://en.wikipedia.org/wiki/Clive_Sinclair) and his company [Sinclair Research](https://en.wikipedia.org/wiki/Sinclair_Research). It became one of the most influential home computers of its time, shaping an entire generation of developers and enthusiasts.
@@ -71,8 +88,11 @@ All of these can be observed:
 ## Repository Structure
 
 leningrad-zx-spectrum/
-  ├── Leningrad/        → Original Leningrad schematic and PCB (Altium)
-  └── Leningrad_mod/    → Configurable board design (Altium)
+  ├── Leningrad/
+  └── Leningrad_mod/
+
+Leningrad       - Original Leningrad schematic and PCB (Altium)
+Leningrad_mod   - Configurable board design (Altium)
 
 ---
 
