@@ -20,14 +20,14 @@ The goal is not just preservation, but **understanding** - how the machine works
 ### Bare PCB
 
 <p align="center">
-  <img src="images/PCB_top.jpg" width="400" alt="PCB top">
-  <img src="images/PCB_bottom.jpg" width="400" alt="PCB bottom">
+  <img src="Images/PCB_top.jpg" width="400" alt="PCB top">
+  <img src="Images/PCB_bottom.jpg" width="400" alt="PCB bottom">
 </p>
 
 ### Assembled Board
 
 <p align="center">
-  <img src="images/PCB.jpg" width="500" alt="Assembled board">
+  <img src="Images/PCB.jpg" width="500" alt="Assembled board">
 </p>
 
 ---
@@ -87,9 +87,11 @@ All of these can be observed:
 
 ## Repository Structure
 
+'''
 leningrad-zx-spectrum/
   ├── Leningrad/
   └── Leningrad_mod/
+'''
 
 Leningrad       - Original Leningrad schematic and PCB (Altium)
 Leningrad_mod   - Configurable board design (Altium)
