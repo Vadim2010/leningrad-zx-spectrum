@@ -87,11 +87,11 @@ All of these can be observed:
 
 ## Repository Structure
 
-'''
+```
 leningrad-zx-spectrum/
   ├── Leningrad/
   └── Leningrad_mod/
-'''
+```
 
 Leningrad       - Original Leningrad schematic and PCB (Altium)
 Leningrad_mod   - Configurable board design (Altium)
